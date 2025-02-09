@@ -157,6 +157,7 @@ dl>div.appear dd {
   width: 30%;
   height: 75vh;
   border: 1px solid white;
+  border-bottom:none ;
   margin-top: 5%;
 }
 
